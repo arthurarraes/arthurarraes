@@ -8,9 +8,10 @@
   </a>
 </div>
 
-Sou desenvolvedor, amo programar
+Sou desenvolvedor, amo esportes e jogos
 
-- 👩‍💻 Estudante Full-Stack
+👩‍💻 Aprendendo sobre Full-Stack
+ - ❤ Estudante do Ensino Médio
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" title="CSS" alt="Java" width="50" height="50"/>&nbsp;
@@ -18,4 +19,3 @@ Sou desenvolvedor, amo programar
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="HTML5" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
 </div>
----
