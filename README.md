@@ -10,7 +10,7 @@
 
 Sou desenvolvedor, amo esportes e jogos
 
-👩‍💻 Aprendendo sobre Full-Stack
+ 👩‍💻 Aprendendo sobre Full-Stack
  ❤ Estudante do Ensino Médio
 
 <div>
