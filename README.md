@@ -3,7 +3,7 @@
 
 #  Olá, bom ter você por aqui!
   <div id="badges">
-  <a href = "https://github.com/risoflorais">
+  <a href = "https://github.com/arthurarraes">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
