@@ -8,7 +8,7 @@
   </a>
 </div>
 
-Sou desenvolvedor, amo esportes e jogos
+Futuro desenvolvedor, amo esportes e jogos
 
 - 👩‍💻 Aprendendo sobre Full-Stack
 - ❤ Estudante do Ensino Médio
