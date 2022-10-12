@@ -8,9 +8,9 @@
   </a>
 </div>
 
-Futuro desenvolvedor, amo esportes e jogos
+desenvolvedor, amo jogos e aprender novas coisas
 
-- 👩‍💻 Aprendendo sobre Full-Stack
+- 👩‍💻 Aprendendo sobre Programação
 - ❤ Estudante do Ensino Médio
   
 <div>
