@@ -8,7 +8,7 @@
   </a>
 </div>
 
-Desenvolvedor, amo aprender novas coisas
+Front-End Desenvolvedor, amo aprender novas coisas
 
 - 👩‍💻 Aprendendo sobre Programação
 - ❤ Estudante do Ensino Médio
