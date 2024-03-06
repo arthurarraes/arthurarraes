@@ -1,20 +1,30 @@
-<div>
-  <img src="https://github.com/risoflorais/risoflorais/blob/main/banner.gif" width="325px" align = "right">
+# Sobre Mim
 
-#  Olá, bom ter você por aqui!
-  <div id="badges">
-  <a href = "https://github.com/arthurarraes">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-</div>
+Olá! Eu sou Arthur Arraes, um entusiasta de tecnologia de 17 anos atualmente cursando Análise e Desenvolvimento de Sistemas na FIAP. Estou profundamente imerso no mundo do desenvolvimento web e estou explorando diversas áreas para encontrar minha paixão definitiva.
 
-Front-End Desenvolvedor, amo aprender novas coisas
+## 🚀 Tecnologias e Estudos
 
-- 👩‍💻 Aprendendo sobre Programação
-- ❤ Estudante do Ensino Médio
-  
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" title="CSS" alt="Java" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-</div>
+- 💻 Atualmente, estou aprimorando minhas habilidades em:
+  - HTML
+  - CSS
+  - JavaScript
+  - React (Iniciante)
+
+- 📚 Meu foco principal está na construção de aplicações web, mas estou mantendo minha mente aberta para explorar diferentes áreas do desenvolvimento de software.
+
+## 🌟 Objetivos
+
+- 🎯 Ainda estou no processo de descoberta para determinar se meu interesse se alinha mais com o desenvolvimento frontend, backend ou mobile.
+- 🌱 Estou sempre buscando aprender e me desafiar em novas áreas da programação.
+
+## 📫 Contato
+
+- 📧 Você pode entrar em contato comigo no [Meu LinkedIn](https://www.linkedin.com/in/arthur-arraes/).
+
+## 🌈 Outras Interesses
+
+Fora do mundo da tecnologia, gosto da area de Musculação, Fisiculturismo e amo assistir séries.
+
+## 🤝 Vamos Conectar!
+
+Sinta-se à vontade para entrar em contato comigo se você estiver interessado em colaborar em projetos ou apenas bater um papo sobre tecnologia!
