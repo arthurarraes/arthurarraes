@@ -23,7 +23,7 @@ Olá! Eu sou Arthur Arraes, um entusiasta de tecnologia de 17 anos atualmente cu
 
 ## 🌈 Outras Interesses
 
-Fora do mundo da tecnologia, gosto da area de Musculação, Fisiculturismo e amo assistir séries.
+Fora do mundo da tecnologia, gosto da área de Musculação, Fisiculturismo e amo assistir séries.
 
 ## 🤝 Vamos Conectar!
 
