@@ -1,6 +1,6 @@
 # Sobre Mim
 
-Olá! Eu sou Arthur Arraes, um entusiasta de tecnologia de 17 anos atualmente cursando Análise e Desenvolvimento de Sistemas na FIAP. Estou profundamente imerso no mundo do desenvolvimento web e estou explorando diversas áreas para encontrar minha paixão definitiva.
+Olá! Eu sou Arthur Arraes, um entusiasta de tecnologia de 18 anos atualmente cursando Análise e Desenvolvimento de Sistemas na FIAP. Estou profundamente imerso no mundo do desenvolvimento web e estou explorando diversas áreas para encontrar minha paixão definitiva.
 
 ## 🚀 Tecnologias e Estudos
 
