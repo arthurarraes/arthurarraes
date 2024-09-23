@@ -1,30 +1,52 @@
-# Sobre Mim
+# ✨ Arthur Arraes
 
-Olá! Eu sou Arthur Arraes, um entusiasta de tecnologia de 18 anos atualmente cursando Análise e Desenvolvimento de Sistemas na FIAP. Estou profundamente imerso no mundo do desenvolvimento web e estou explorando diversas áreas para encontrar minha paixão definitiva.
+### 🌍 Sobre Mim
+Olá! Sou um **entusiasta de tecnologia** de **18 anos**, atualmente cursando **Análise e Desenvolvimento de Sistemas** na **FIAP**. Meu foco é o **desenvolvimento frontend**, onde busco criar experiências digitais incríveis.
 
-## 🚀 Tecnologias e Estudos
+---
 
-- 💻 Atualmente, estou aprimorando minhas habilidades em:
-  - HTML
-  - CSS
-  - JavaScript
-  - React (Iniciante)
+## 🛠️ Tecnologias e Habilidades
 
-- 📚 Meu foco principal está na construção de aplicações web, mas estou mantendo minha mente aberta para explorar diferentes áreas do desenvolvimento de software.
+<div style="display: flex; justify-content: space-around; flex-wrap: wrap; margin-bottom: 20px;">
 
-## 🌟 Objetivos
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="60" height="60"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="60" height="60"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="60" height="60"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="60" height="60"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" width="60" height="60"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="60" height="60"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="60" height="60"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="60" height="60"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="60" height="60"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="60" height="60"/>
 
-- 🎯 Ainda estou no processo de descoberta para determinar se meu interesse se alinha mais com o desenvolvimento frontend, backend ou mobile.
-- 🌱 Estou sempre buscando aprender e me desafiar em novas áreas da programação.
+</div>
+
+---
+
+## 🎯 Meus Objetivos
+
+- **Especialização em Frontend**: Aprofundar meu conhecimento em tecnologias modernas e frameworks.
+- **Desenvolvimento Contínuo**: Sempre em busca de novos desafios e oportunidades de aprendizado.
+
+---
 
 ## 📫 Contato
 
-- 📧 Você pode entrar em contato comigo no [Meu LinkedIn](https://www.linkedin.com/in/arthur-arraes/).
+Vamos nos conectar! Você pode me encontrar em:
 
-## 🌈 Outras Interesses
+- [LinkedIn](https://www.linkedin.com/in/arthur-arraes)
+- [GitHub](#)
 
-Fora do mundo da tecnologia, gosto da área de Musculação, Fisiculturismo e amo assistir séries.
+---
 
-## 🤝 Vamos Conectar!
+## 🌈 Interesses Pessoais
 
-Sinta-se à vontade para entrar em contato comigo se você estiver interessado em colaborar em projetos ou apenas bater um papo sobre tecnologia!
+Fora do mundo da tecnologia, sou apaixonado por:
+
+- **Musculação** e **Fisiculturismo**
+- **Séries** e **Filmes**
+
+---
+
+🤝 **Vamos Conectar!** Estou aberto a colaborações e conversas sobre tecnologia!
