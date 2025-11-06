@@ -1,52 +1,15 @@
-# ✨ Arthur Arraes
+# 💫 About Me:
+Atualmente sou Desenvolvedor Front-End na TecSinapse e estudo Engenharia de Software na FIAP.<br>Trabalho com React e TypeScript, focando em código limpo, componentes reutilizáveis e uma arquitetura fácil de manter.<br><br>Gosto de entender como cada parte da aplicação se conecta, desde o consumo da API até o comportamento do usuário na tela, e transformar isso em uma experiência fluida.<br><br>Tenho experiência com refatoração de código legado, integração com GraphQL e otimização de performance em aplicações React usadas por clientes corporativos.<br>No momento, estou me aprofundando em Clean Code, padrões de projeto e boas práticas de arquitetura Front-End.
 
-### 🌍 Sobre Mim
-Olá! Sou um **entusiasta de tecnologia** de **18 anos**, atualmente cursando **Análise e Desenvolvimento de Sistemas** na **FIAP**. Meu foco é o **desenvolvimento frontend**, onde busco criar experiências digitais incríveis.
 
----
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/arthur-arraes) 
 
-## 🛠️ Tecnologias e Habilidades
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white) ![Vitest](https://img.shields.io/badge/-Vitest-252529?style=for-the-badge&logo=vitest&logoColor=FCC72B) ![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=arraesarthur&theme=dracula&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=arraesarthur&theme=dracula&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=arraesarthur&theme=dracula&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
-<div style="display: flex; justify-content: space-around; flex-wrap: wrap; margin-bottom: 20px;">
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="60" height="60"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="60" height="60"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="60" height="60"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="60" height="60"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" width="60" height="60"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="60" height="60"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="60" height="60"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="60" height="60"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="60" height="60"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="60" height="60"/>
-
-</div>
-
----
-
-## 🎯 Meus Objetivos
-
-- **Especialização em Frontend**: Aprofundar meu conhecimento em tecnologias modernas e frameworks.
-- **Desenvolvimento Contínuo**: Sempre em busca de novos desafios e oportunidades de aprendizado.
-
----
-
-## 📫 Contato
-
-Vamos nos conectar! Você pode me encontrar em:
-
-- [LinkedIn](https://www.linkedin.com/in/arthur-arraes)
-- [GitHub](#)
-
----
-
-## 🌈 Interesses Pessoais
-
-Fora do mundo da tecnologia, sou apaixonado por:
-
-- **Musculação** e **Fisiculturismo**
-- **Séries** e **Filmes**
-
----
-
-🤝 **Vamos Conectar!** Estou aberto a colaborações e conversas sobre tecnologia!
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
